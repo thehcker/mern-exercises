@@ -5,10 +5,3 @@ dist/
 logs/
 yarn-error.log
 requests.http
-output*.html
-profile/
-01*.html
-profile/
-cookies.json
-.DS_Store
-tmp/
